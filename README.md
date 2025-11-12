@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="screenshot.jpg" alt="n8n-flow cover" width="100%">
+</p>
+
 # ✉️ AI-Powered Email Generator & Sender (n8n Workflow)
 
 This n8n workflow takes email topics or prompts from a Google Sheet, generates full emails using an LLM (Groq API or OpenAI), and sends them automatically via SMTP.  
